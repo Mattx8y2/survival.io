@@ -1,0 +1,22 @@
+{
+  "name": "survival.io",
+  "version": "0.0.1",
+  "description": "Survival.io game",
+  "keywords": ["survival.io", "game"],
+  "homepage": "https://survival.io",
+  "bugs": {
+    "url": "https://github.com/Mattx8y2/survival.io/issues"
+  },
+  "license": "MIT",
+  "contributors": [
+    "Mattx8y2",
+    "Elflanded"
+  ],
+  "main": "index.js",
+  "repository": "github:Mattx8y2/survival.io",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "private": true
+}
